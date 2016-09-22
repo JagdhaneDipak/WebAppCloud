@@ -117,6 +117,7 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
+    <Folder Include="My Project\PublishProfiles\" />
     <Folder Include="Properties\" />
   </ItemGroup>
   <ItemGroup>
@@ -240,10 +241,6 @@
       <Generator>MyApplicationCodeGenerator</Generator>
       <LastGenOutput>Application.Designer.vb</LastGenOutput>
     </None>
-    <None Include="My Project\PublishProfiles\WebCloudApp %282%29.pubxml" />
-    <None Include="My Project\PublishProfiles\WebCloudApp - FTP.pubxml" />
-    <None Include="My Project\PublishProfiles\WebCloudApp - Web Deploy.pubxml" />
-    <None Include="My Project\PublishProfiles\WebCloudApp.pubxml" />
     <None Include="My Project\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <CustomToolNamespace>My</CustomToolNamespace>
