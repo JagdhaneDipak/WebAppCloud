@@ -1,0 +1,3 @@
+@Imports WebCloudApp.Areas.HelpPage.ModelDescriptions
+@ModelType SimpleTypeModelDescription
+@Model.Documentation
